@@ -21,7 +21,7 @@ class List extends Component {
 
   render() { 
     return (
-      <ol > 
+      <ol id='list'> 
         {this.renderList()} 
       </ol> 
     ); 

@@ -39,9 +39,23 @@
 
 ol {
   list-style: none;
+  
+  
 }
 
 #typeDropdown {
   margin: auto;
 }
+
+#container {
+  text-align: center;
+}
+#filter {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  gap: 5px;
+}
+
+
 
